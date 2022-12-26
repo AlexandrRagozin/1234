@@ -1,0 +1,15 @@
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\bin\Debug\net6.0\1.exe
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\bin\Debug\net6.0\1.deps.json
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\bin\Debug\net6.0\1.dll
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\bin\Debug\net6.0\1.pdb
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.dll
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\refint\1.dll
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.pdb
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\GeekBrains\Yrok7_dvymernie_massivi\1\obj\Debug\net6.0\ref\1.dll
